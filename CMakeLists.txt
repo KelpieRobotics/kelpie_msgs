@@ -7,10 +7,12 @@ endif()
 
 # find dependencies
 find_package(rosidl_default_generators REQUIRED)
+find_package(std_msgs REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   # List your msg and srv files here one per line, e.g. "msg/Num.msg"
   "msg/Claw.msg"
+  DEPENDENCIES std_msgs
 )
 
 if(BUILD_TESTING)
