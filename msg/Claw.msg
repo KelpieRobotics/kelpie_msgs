@@ -1,1 +1,1 @@
-Int8 claw
+uint8 claw
