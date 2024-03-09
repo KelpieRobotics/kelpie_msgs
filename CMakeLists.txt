@@ -14,7 +14,9 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Claw.msg"
   "msg/Servos.msg"
   "msg/Thrusters.msg"
-  "msg/Sensors.msg"
+  "msg/Sensors200hz.msg"
+  "msg/Sensors2hz.msg"
+  "msg/Sensors1hz.msg"
   DEPENDENCIES std_msgs
 )
 
