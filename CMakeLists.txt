@@ -17,7 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/SensorsFast.msg"
   "msg/SensorsModerate.msg"
   "msg/SensorsSlow.msg"
-  "msg/SensorsRequest_Response.msg"
+  "msg/SensorsRequestResponse.msg"
   DEPENDENCIES std_msgs
 )
 
