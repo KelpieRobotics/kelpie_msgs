@@ -19,7 +19,6 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/SensorsLeak.msg"
   "msg/SensorsExtTemp.msg"
   "msg/SensorsIntTemp.msg"
-  "msg/SensorsRequestResponse.msg"
   DEPENDENCIES std_msgs
 )
 

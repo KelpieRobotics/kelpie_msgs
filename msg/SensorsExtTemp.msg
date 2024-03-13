@@ -1,3 +1,3 @@
 # Slow
-## BAR02
-float32 temperature_external_alt
+## DS18B20
+float32 temperature_external
