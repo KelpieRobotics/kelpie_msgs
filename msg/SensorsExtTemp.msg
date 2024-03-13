@@ -1,3 +1,2 @@
-# Slow
-## DS18B20
+# DS18B20 sensor
 float32 temperature_external

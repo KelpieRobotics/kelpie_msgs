@@ -1,3 +1,2 @@
-# Moderate
-## Leak
+# Leak sensor
 bool leak

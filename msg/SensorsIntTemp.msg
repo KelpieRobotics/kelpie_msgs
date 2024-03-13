@@ -1,4 +1,3 @@
-# Slow
-## SHT30
-float32 temperature_internal
-float32 humidity_internal
+# SHT30 sensor
+float32 temperature
+float32 humidity
