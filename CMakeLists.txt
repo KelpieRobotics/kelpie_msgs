@@ -14,6 +14,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Claw.msg"
   "msg/Servos.msg"
   "msg/Thrusters.msg"
+  "msg/SensorsVeryFast.msg"
   "msg/SensorsFast.msg"
   "msg/SensorsModerate.msg"
   "msg/SensorsSlow.msg"
