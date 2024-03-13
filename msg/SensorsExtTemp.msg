@@ -1,2 +1,2 @@
 # DS18B20 sensor
-float32 temperature_external
+float32 temperature
