@@ -14,10 +14,11 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Claw.msg"
   "msg/Servos.msg"
   "msg/Thrusters.msg"
-  "msg/SensorsVeryFast.msg"
-  "msg/SensorsFast.msg"
-  "msg/SensorsModerate.msg"
-  "msg/SensorsSlow.msg"
+  "msg/SensorsIMU.msg"
+  "msg/SensorsPressure.msg"
+  "msg/SensorsLeak.msg"
+  "msg/SensorsExtTemp.msg"
+  "msg/SensorsIntTemp.msg"
   "msg/SensorsRequestResponse.msg"
   DEPENDENCIES std_msgs
 )
