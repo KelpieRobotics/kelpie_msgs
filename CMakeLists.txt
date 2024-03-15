@@ -16,6 +16,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Thrusters.msg"
   "msg/SensorsIMU.msg"
   "msg/SensorsPressure.msg"
+  "msg/SensorsIMUPressure.msg"
   "msg/SensorsLeak.msg"
   "msg/SensorsExtTemp.msg"
   "msg/SensorsIntTemp.msg"
