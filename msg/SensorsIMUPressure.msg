@@ -6,6 +6,3 @@ float32[4] imu_game_rotation_vector
 
 # BAR02 sensor
 float32 pressure
-float32 temperature
-float32 depth
-float32 altitude
